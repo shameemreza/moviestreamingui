@@ -8,7 +8,7 @@ Animated Movie Streaming App UI using SwiftUi 3.0 🤓
 
 ## Video Preview
 
-[![Movie Streaming App UI](https://img.youtube.com/vi/Yvu9PTFe4bE/0.jpg)](https://youtu.be/Yvu9PTFe4bE "Movie Streaming App UI")
+[![Movie Streaming App UI](https://img.youtube.com/vi/YpqZo92yCcg/0.jpg)](https://youtu.be/YpqZo92yCcg "Movie Streaming App UI")
 
 
 ## Screenshots
